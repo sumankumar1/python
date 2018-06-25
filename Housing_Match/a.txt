@@ -1,0 +1,5 @@
+001 10000 Wuppertal 85 4 Manin 2
+002 200000 Dusseldorf 123 5 Ferguson 1
+003 78000 Koeln 42 2 Wenger 3
+004 56896 Dortmund 154 3 Manin 2
+005 er19000e Munchen 167  2 Ferguson 4

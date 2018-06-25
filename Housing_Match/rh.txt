@@ -1,0 +1,4 @@
+75000 Dortmund Wuppertal 65 2 400
+250000 Dortmund Wuppertal 90 2 500
+350000 Dortmund Wuppertal Solingen 110 3 500
+600000 Solingen Wuppertal 100 4 700 

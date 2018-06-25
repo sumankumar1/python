@@ -1,0 +1,4 @@
+001 100000 Wuppertal 120 5 Manin 600
+002 200000 Dortmund 90 2 Manin 1000
+003 500000 Solingen 250 5 Wenger 1200
+004 25000 Wuppertal 78 2 Ferguson 500
